@@ -1,7 +1,7 @@
-package com.github.arfrie22.AdvancedField;
+package io.github.arfrie22.AdvancedField;
 
-import com.github.arfrie22.AdvancedField.data.type.AdvancedFieldType;
-import com.github.arfrie22.AdvancedField.widget.AdvancedFieldWidget;
+import io.github.arfrie22.AdvancedField.data.type.AdvancedFieldType;
+import io.github.arfrie22.AdvancedField.widget.AdvancedFieldWidget;
 import edu.wpi.first.shuffleboard.api.data.DataType;
 import edu.wpi.first.shuffleboard.api.plugin.Description;
 import edu.wpi.first.shuffleboard.api.plugin.Plugin;
@@ -13,7 +13,7 @@ import java.util.Map;
 @Description(
     group = "com.github.arfrie22",
     name = "AdvancedField",
-    version = "2022.1.1",
+    version = "1.0.0",
     summary = "A more advanced version of the field widget and field2d"
 )
 public class AdvancedField extends Plugin {
