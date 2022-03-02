@@ -13,7 +13,7 @@ import java.util.Map;
 @Description(
     group = "com.github.arfrie22",
     name = "AdvancedField",
-    version = "1.0.0",
+    version = "0.1.0",
     summary = "A more advanced version of the field widget and field2d"
 )
 public class AdvancedField extends Plugin {
